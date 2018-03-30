@@ -1,14 +1,8 @@
 title: github 常用命令
 date: 2015-01-03 10:20:27
 categories: tools
-tags: [tools,hexo]
----
-博客搭建工具[hexo](http://hexo.io/)基本命令：
+tags: 
 
-	$ hexo h[help]              # Get help on a command(获得命令帮助)
-	$ hexo h[help] <command> 	# 获得命令command详细帮助
-
-<img src="http://7xlmfk.com1.z0.glb.clouddn.com/imgs/article/hexo_help.png" alt="hexo help" />
 
 <!--more-->
 
