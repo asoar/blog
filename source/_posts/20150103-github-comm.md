@@ -1,7 +1,7 @@
 title: github 常用命令
 date: 2015-01-03 10:20:27
 tags: 
-    - git
+    - git-command
 ---
 
 1、查看当前git的版本
