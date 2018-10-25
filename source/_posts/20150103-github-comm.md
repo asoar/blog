@@ -7,7 +7,7 @@ tags:
 
 1、查看当前git的版本
 
-    $ git version   #查看当前git版本
+    $ git version    #查看当前git版本
 
 2、Debian或Ubuntu linux系统上的命令安装git
 
